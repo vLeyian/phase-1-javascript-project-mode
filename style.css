@@ -1,0 +1,19 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#display-container {
+    display: flex;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 500px;
+    height: 250px;
+    align-items: center;
+}

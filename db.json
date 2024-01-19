@@ -1,0 +1,52 @@
+{
+    "Aircraft": [
+        {
+            "id": 1,
+            "designation": "ADFX-01",
+            "name": "Morgan",
+            "image": "https://static.wikia.nocookie.net/acecombat/images/6/6a/ADFX-01_AC7_Flyby.png/revision/latest/scale-to-width-down/1000?cb=20190426133403",
+            "sortie": "1995, The Belkan War",
+            "description": "Developed from an experimental aircraft of the South Belka National Weapons Plant, this all-weather multi-purpose aircraft's attack and defensive capabilities far exceed that of any other fighter."
+        },
+
+        {
+            "id": 2,
+            "designation": "ADF-01",
+            "name": "Falcon",
+            "image": "https://static.wikia.nocookie.net/acecombat/images/a/a3/AC7_ADF-01_Season_Pass_Steam_Store_Image.jpg/revision/latest/scale-to-width-down/1000?cb=20200702121839",
+            "sortie": "1997, Usean coup d'etat",
+            "description": "Cutting-edge fighter aircraft incorporating the latest technologies developed by Grunder Industries. Its 360-degree view cockpit system gives its pilot an immense advantage in combat."
+        },
+
+        {
+            "id": 3,
+            "designation": "X-02",
+            "name": "Wyvern",
+            "image": "https://static.wikia.nocookie.net/acecombat/images/9/90/X-02S_Prepares_for_Aerial_Refueling.png/revision/latest?cb=20200906170110",
+            "sortie": "2005, First Continential War",
+            "description": "A Stealth aircraft built with the latest technology. Boasts total air-to-air and air-to-ground combat capability."
+        },
+
+        {
+            "id": 4,
+            "designation": "CFA-44",
+            "name": "Nosferatu",
+            "image": "https://static.wikia.nocookie.net/acecombat/images/b/be/CFA-44_Firing_ADMM_AC7.jpg/revision/latest/scale-to-width-down/1000?cb=20201112072603",
+            "sortie": "2013, Emmeria-Estovakia War",
+            "description": "The Nosferatu is Estovakia's next-generation carrier-based stealth aircraft. Various onboard experimental weapon technologies include a rail gun, ADMM missiles and a fully integrated electronic support system. In the hands of an experienced pilot, this aircraft truly knows no bounds. Complete dominance over all other aircraft in speed, acceleration, and maneuverability is hindered only by its instability. Outfitted with the latest in experimental weaponry, it knows no match from the land or air."
+            
+        },
+
+        {
+            "id": 5,
+            "designation": "ADF-11F",
+            "name": "Raven",
+            "image": "https://static.wikia.nocookie.net/acecombat/images/a/a6/ADF-11F_Flyby.png/revision/latest?cb=20190426134427",
+            "sortie": "2019, Lighthouse War",
+            "description": "A large fighter created by North Osea Gründer Industries. The Erusean Air and Space Administration (EASA) planned to create a UAV-model and a few manned models; this aircraft is the latter. What makes the ADF-11F stand out is its ADF-11 nose unit and large wing unit, which can be changed to suit the operation at hand. It can be an air superiority fighter, an anti-surface bomber, an electronic surveillance aircraft, and more. The F-model wings, designed specifically for close-range combat, give the ADF-11F its name. Its nose is fitted with a small-bore laser cannon, while its wings are loaded with highly maneuverable anti-air missiles. Additionally, it is equipped with a high-output strategic laser system and a small, multipurpose UAV."
+            
+        }
+
+        
+    ]
+}
